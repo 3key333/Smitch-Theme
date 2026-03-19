@@ -1,0 +1,12 @@
+#root{
+  display: flex;
+  justify-content: center;
+}
+
+main{
+  margin-top: 200px;
+}
+
+button{
+  margin-top: 5px;
+}
